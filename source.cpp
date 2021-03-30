@@ -20,6 +20,7 @@ void displayNum(int n1, float n2) {
     cout << "The double number is " << n2<<endl;
     cout << "Addition of number is " <<n1+n2<<endl;
     cout << "The substraction of number is " << n1-n2<<endl;
+    cout << "The multiplication of number is " << n1*n2<<endl;
 }
 
 int main() {
